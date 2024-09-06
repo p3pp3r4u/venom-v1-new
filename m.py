@@ -358,7 +358,7 @@ def show_help(message):
 💥 /admincmd : Shows All Admin Commands.
 
 Buy From :- @evakulos
-Official Channel :- https://t.me/V3NOM_CH3AT
+Official Channel :- https://t.me/ddosssbgmi
 '''
     for handler in bot.message_handlers:
         if hasattr(handler, 'commands'):
